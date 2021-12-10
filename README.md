@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @cyberJMB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cyberJMB/cyberJMB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+echo "\n $turkis ================================================
+╔╦╦╦╦╦╦╦╦╦╦╗TOOL Auto Claim Faucet Bot V2.8 
+╠╬╬█╬╬╬╬█╬╬╣SEBELUM MENGGUNAKAN TOOL 
+╠╬╬╬╬╬╬╬╬╬╬╣BACA KEMBALI CARA MENJALANKAN 
+╠╬████████╬╣SCRIPT INI !!!!!!!!!!!!!!!!!!! 
+╠╬█╬╬╬╬╬╬█╬╣Pahamkan Bro.......... 
+╚╩╩╩╩╩╩╩╩╩╩╝====================================\n";
+echo "
+\033[1;96m┌─┐┌─┐┬ ┬┌─┐┌─┐┌┬┐\033[1;97m  ┌─┐┌─┐┬ ┬
+\033[1;96m├┤ ├─┤│ ││  ├┤  │ \033[1;97m  ├─┘├─┤└┬┘
+\033[1;96m└  ┴ ┴└─┘└─┘└─┘ ┴ \033[1;97m  ┴  ┴ ┴ ┴
+\033[1;90m------------------------------
+\033[1;97mCreated by \033[1;96mKapten Oleng\n\n";
+echo "\n$biru======================================================\n$turkis"; echo "===========#### AUTOCLAIM FAUCETPAY 2021####==========\n$red";
+echo date('d/M /y');
+echo "===================Kapten Oleng=======================\n"; 
+echo  date('l,d-m-Y');   
+echo "\n$ijo======================================================\n";       
+echo "\n$ijo===================Lu Gua And=========================\n";
